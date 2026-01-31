@@ -32,10 +32,29 @@
 *.a
 *.lib
 
-# Executables
+# Executables and build artifacts
 *.exe
 *.out
 *.app
+*.res
+*.aps
 
-# debug information files
+# Debug information files
 *.dwo
+
+# Visual studio files
+.vs/
+out/
+build/
+x64/
+x86/
+Debug/
+Release/
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.pdb
+*.idb
+*.ipch
