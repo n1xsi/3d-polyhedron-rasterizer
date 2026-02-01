@@ -45,6 +45,7 @@ obj/
 
 # Visual studio files
 .vs/
+.vscode/
 out/
 build/
 x64/
